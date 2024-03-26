@@ -1,0 +1,4 @@
+[submodule "fs_simul2"]
+	path = fs_simul2
+	url = https://github.com/tdalmora/fs_simul2.git
+	branch = master
